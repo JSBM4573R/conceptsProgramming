@@ -39,11 +39,11 @@ The program avoids using any explicit conditional statements (`if`, `else`, `swi
    2. Open a terminal/command prompt and navigate to the folder where the program is saved.
    3. Compile the program using the following command:
       ```bash
-      javac ParImpar.java
+      javac ParOrImpar.java
       ```
    4. Run the compiled Java program with the following command:
       ```bash
-      java ParImpar
+      java ParOrImpar
       ```
    5. The program will prompt you to enter an integer. After entering the number, it will display whether the number is `even` or `odd`.
 
